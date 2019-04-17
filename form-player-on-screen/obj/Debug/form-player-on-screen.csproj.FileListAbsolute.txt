@@ -1,0 +1,15 @@
+c:\users\pichau\documents\visual studio 2017\Projects\form-player-on-screen\form-player-on-screen\bin\Debug\form-player-on-screen.exe.config
+c:\users\pichau\documents\visual studio 2017\Projects\form-player-on-screen\form-player-on-screen\bin\Debug\form-player-on-screen.exe
+c:\users\pichau\documents\visual studio 2017\Projects\form-player-on-screen\form-player-on-screen\bin\Debug\form-player-on-screen.pdb
+c:\users\pichau\documents\visual studio 2017\Projects\form-player-on-screen\form-player-on-screen\obj\Debug\form-player-on-screen.csprojResolveAssemblyReference.cache
+c:\users\pichau\documents\visual studio 2017\Projects\form-player-on-screen\form-player-on-screen\obj\Debug\form_player_on_screen.Form1.resources
+c:\users\pichau\documents\visual studio 2017\Projects\form-player-on-screen\form-player-on-screen\obj\Debug\form_player_on_screen.Properties.Resources.resources
+c:\users\pichau\documents\visual studio 2017\Projects\form-player-on-screen\form-player-on-screen\obj\Debug\form-player-on-screen.csproj.GenerateResource.Cache
+c:\users\pichau\documents\visual studio 2017\Projects\form-player-on-screen\form-player-on-screen\obj\Debug\form-player-on-screen.exe
+c:\users\pichau\documents\visual studio 2017\Projects\form-player-on-screen\form-player-on-screen\obj\Debug\form-player-on-screen.pdb
+c:\users\pichau\documents\visual studio 2017\Projects\form-player-on-screen\form-player-on-screen\bin\Debug\NAudio.dll
+c:\users\pichau\documents\visual studio 2017\Projects\form-player-on-screen\form-player-on-screen\bin\Debug\NAudio.xml
+c:\users\pichau\documents\visual studio 2017\Projects\form-player-on-screen\form-player-on-screen\bin\Debug\form-player-on-screen.exe.manifest
+c:\users\pichau\documents\visual studio 2017\Projects\form-player-on-screen\form-player-on-screen\bin\Debug\form-player-on-screen.application
+c:\users\pichau\documents\visual studio 2017\Projects\form-player-on-screen\form-player-on-screen\obj\Debug\form-player-on-screen.exe.manifest
+c:\users\pichau\documents\visual studio 2017\Projects\form-player-on-screen\form-player-on-screen\obj\Debug\form-player-on-screen.application
